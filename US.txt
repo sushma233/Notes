@@ -1,0 +1,24 @@
+1)User story examples for banking systems
+To understand the needs and desires of customers using online banking platforms,
+ let’s look at some user story examples related to banking systems.
+
+As a customer, I want to receive e-statements for my bank account, so I can reduce paper waste.
+As a user, I want to schedule future payments, so I can ensure my bills are paid on time.
+As a customer, I want to categorize my transactions, so I can better understand and manage my spending habits.
+
+
+2)User stories for loan management systems
+User stories can even address highly specialistic situations. For example, 
+loan management is a critical aspect of banking systems. Here are examples of user stories that address such a specific context:
+
+As a loan officer, I want to be able to view a customer’s up-to-date credit history, so I can make informed loan decisions.
+As a borrower, I want to calculate my loan eligibility based on my income and credit score, so I know how much I can borrow.
+As a loan processor, I want to be able to track the status of a loan application, so I can manage my work effectively.
+
+
+3)User story examples for online shopping
+A smooth shopping experience starts with a well-crafted user story. Here are three examples of online shoppers’ needs.
+
+As a customer, I want to track my order, so I can know when to expect delivery.
+As an eco-conscious shopper, I want to see environmental impact details for products, so I can make sustainable choices.
+As an online shopper, I want the ability to save products that I’m interested in for later, so I don’t have to search for them again.
